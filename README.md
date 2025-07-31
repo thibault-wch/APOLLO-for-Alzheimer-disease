@@ -7,10 +7,10 @@ Alzheimer’s Disease Detection."
 ## Approach
  <img src="./readme_files/img.png" alt="overall_framework" width="800"> 
 
-# Updates
+## Updates
 July, 2025: initial commit for core model architecture and loss functions
 
-# Data PrePration
+## Data PrePration
 ADNI, NACC, and AIBL datasets
 
 ## Requirements
@@ -23,3 +23,4 @@ ADNI, NACC, and AIBL datasets
 ```
 
 ## Traning and & Inference
+- [ ] Todo
